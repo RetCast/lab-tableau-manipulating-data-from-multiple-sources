@@ -42,3 +42,7 @@ As discussed during the last lesson, these are another couple of ways in which T
   - Now go to the sheet, and create a plot and show the top 4 sources of generation. The final plot should look like this. Note here we have used a filter in the sheet to remove the column with discharge.
 
   ![Plot example](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.1-lab_final_plot.png)
+
+  ### Results
+
+  Into this [Tableau Public (https://public.tableau.com/app/profile/daniel.retana/viz/nz_water_water_resources_16888504581270/WaterphysicalstockaccountforyearsendedJune19952010) you can find the final visualization for this lab.
