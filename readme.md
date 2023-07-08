@@ -45,4 +45,4 @@ As discussed during the last lesson, these are another couple of ways in which T
 
   ### Results
 
-  Into this [Tableau Public (https://public.tableau.com/app/profile/daniel.retana/viz/nz_water_water_resources_16888504581270/WaterphysicalstockaccountforyearsendedJune19952010) you can find the final visualization for this lab.
+  Into this [Tableau Public](https://public.tableau.com/app/profile/daniel.retana/viz/nz_water_water_resources_16888504581270/WaterphysicalstockaccountforyearsendedJune19952010) you can find the final visualization for this lab.
